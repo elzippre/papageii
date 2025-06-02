@@ -1,0 +1,2 @@
+# papageii
+install script
