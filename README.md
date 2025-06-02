@@ -1,2 +1,2 @@
 # papageii
-install script
+parrot machine install script
